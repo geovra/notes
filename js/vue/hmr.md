@@ -1,3 +1,3 @@
 # HMR Hot module replacement
 
-See code > vue_hmr_laravel
+See demo > vue_hmr_laravel
